@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require_relative '../config/env.rb'
-
-FitnessSupplies::CLI.new.call
